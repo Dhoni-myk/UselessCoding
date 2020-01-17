@@ -1,2 +1,2 @@
 # UselessCoding
-Filled without optimization, just to waste time.
+Filled without optimization, just for wasting my time.
