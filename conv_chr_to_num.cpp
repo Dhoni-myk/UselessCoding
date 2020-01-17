@@ -2,10 +2,10 @@
 using namespace std;
 
 int main(){
-    char key[100];
+    char key[999];
     cout<<"Input Sentence : ";
-    cin.getline(key, 100);
-    for (int i=0;i<key[i];i++){
+    cin.getline(key, 999);
+    for (int i=0;i<key[i];i++){ //why i do this
         if (key[i]=='a' || key[i]=='A')
             cout<<"1";
         else if (key[i]=='b'|| key[i]=='B')
