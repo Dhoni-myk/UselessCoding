@@ -3,6 +3,7 @@
 using namespace std;
 
 //Create by dumbdumb small brain hazekezia
+//Using method mod 7 implementation
 
 int setday(string day){
     int key;
